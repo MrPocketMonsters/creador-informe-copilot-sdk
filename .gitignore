@@ -1,0 +1,12 @@
+# Entorno de Desarrollo
+.venv
+
+# Archivos y carpetas inyectados o con generación dinámica
+data
+output
+approved
+rendered
+
+# Python
+__pycache__
+*/__pycache__

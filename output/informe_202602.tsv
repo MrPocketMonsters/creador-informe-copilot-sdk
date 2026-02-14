@@ -1,0 +1,8 @@
+Actividad_Especifica	Fecha	Descripcion	Producto_Entregable	Evidencia
+6	2026-02-02	Seguimiento de acciones post-entrega y cierre de tareas	Acta de cierre de tareas	archivo: acta_cierre_20260202.pdf
+6	2026-02-09	Implementación de despliegue continuo (CI) para pruebas automáticas	Pipeline de integración continua	archivo: ci_pipeline_20260209.yml
+6	2026-02-12	Optimización de rendimiento en endpoints críticos	Reporte de optimización de rendimiento	archivo: perf_report_20260212.pdf
+7	2026-02-06	Documentación de APIs y ejemplos de uso	Documentación de API REST	archivo: api_docs_20260206.pdf
+8	2026-02-05	Pruebas de usabilidad con usuarios clave	Reporte de pruebas de usabilidad	archivo: usabilidad_20260205.pdf
+10	2026-02-03	Corrección de bugs en el módulo de notificaciones	Correcciones en código fuente	commit: def456 (referencia interna)
+11	2026-02-04	Demostración del avance al equipo funcional y recolección de feedback	Acta de demostración funcional	enlace: https://example.com/demo-feb

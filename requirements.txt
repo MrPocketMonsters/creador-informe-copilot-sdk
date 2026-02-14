@@ -1,0 +1,3 @@
+pandas
+github-copilot-sdk
+openpyxl

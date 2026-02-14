@@ -1,0 +1,35 @@
+Fecha	Hora Inicio	Hora Final	Actividad	Evidencia
+2026-01-02 00:00:00	09:00	10:00	Reunión de inicio de proyecto y alineación de objetivos	
+2026-01-03 00:00:00	10:00	12:00	Preparación del entorno de desarrollo y revisión de repositorios	https://example.com/repo-ejemplo
+2026-01-04 00:00:00	14:00	16:00	Capacitación interna: buenas prácticas de código	
+2026-01-05 00:00:00	09:30	11:00	Análisis de requerimientos y definición de historias de usuario	
+2026-01-06 00:00:00	11:00	12:00	Diseño de prototipo de interfaz para módulo de gestión	archivo: prototipo_interfaz_20260106.pdf
+2026-01-07 00:00:00	13:00	15:00	Desarrollo de componente de exportación a CSV	commit: abc123 (referencia interna)
+2026-01-08 00:00:00	09:00	10:00	Revisión de pruebas unitarias y ajustes menores	archivo: pruebas_unitarias_20260108.pdf
+2026-01-09 00:00:00	10:30	12:00	Planning del sprint y asignación de tareas	
+2026-01-12 00:00:00	09:00	11:30	Implementación de endpoints para API interna	https://example.com/api-docs
+2026-01-13 00:00:00	15:00	17:00	Integración con servicio de notificaciones (entorno de pruebas)	
+2026-01-14 00:00:00	10:00	11:00	Sesión de validación de entregables con el equipo funcional	archivo: acta_validacion_20260114.pdf
+2026-01-15 00:00:00	09:00	09:30	Daily meeting — seguimiento de avances	
+2026-01-16 00:00:00	14:00	18:00	Desarrollo de plantilla para modelo de datos	archivo: diseño_modelo_20260116.pdf
+2026-01-19 00:00:00	10:00	12:00	Pruebas de integración entre módulos y documentación de resultados	archivo: integracion_resultados_20260119.pdf
+2026-01-20 00:00:00	09:30	11:30	Ajustes de diseño UI por resultados de pruebas de usabilidad	
+2026-01-21 00:00:00	13:00	15:00	Preparación de entrega parcial y empaquetado de evidencias	archivo: entrega_parcial_20260121.zip
+2026-01-22 00:00:00	09:00	10:00	Revisión de accesibilidad y correcciones sugeridas	
+2026-01-23 00:00:00	11:00	12:00	Creación de Pull Request para avance de notificaciones	https://example.com/pr/45
+2026-01-26 00:00:00	10:00	13:30	Pruebas end-to-end en entorno local	archivo: e2e_results_20260126.pdf
+2026-01-27 00:00:00	09:00	10:00	Revisión de feedback y corrección de bugs críticos	
+2026-01-28 00:00:00	14:00	16:00	Actualización del CHANGELOG y preparación de la versión de prueba	archivo: CHANGELOG.md
+2026-01-29 00:00:00	10:00	12:00	Revisión final y despliegue en entorno de pruebas	
+2026-01-30 00:00:00	09:00	11:00	Retrospectiva del sprint y planificación siguiente iteración	
+2026-02-02 00:00:00	09:00	10:30	Seguimiento de acciones post-entrega y cierre de tareas	archivo: acta_cierre_20260202.pdf
+2026-02-03 00:00:00	10:00	12:00	Corrección de bugs en el módulo de notificaciones	commit: def456 (referencia interna)
+2026-02-04 00:00:00	14:00	16:00	Demostración del avance al equipo funcional y recolección de feedback	enlace: https://example.com/demo-feb
+2026-02-05 00:00:00	09:30	11:00	Pruebas de usabilidad con usuarios clave	archivo: usabilidad_20260205.pdf
+2026-02-06 00:00:00	11:00	13:00	Documentación de APIs y ejemplos de uso	archivo: api_docs_20260206.pdf
+2026-02-09 00:00:00	09:00	11:30	Implementación de despliegue continuo (CI) para pruebas automáticas	archivo: ci_pipeline_20260209.yml
+2026-02-12 00:00:00	15:00	17:00	Optimización de rendimiento en endpoints críticos	archivo: perf_report_20260212.pdf
+2026-02-16 00:00:00	10:00	12:00	Revisión de accesibilidad y correcciones pendientes	archivo: accesibilidad_20260216.pdf
+2026-02-20 00:00:00	13:00	15:00	Preparación de la versión candidata y empaquetado de evidencias	archivo: entrega_rc_20260220.zip
+2026-02-25 00:00:00	09:00	11:00	Pruebas end-to-end en entorno de staging y validación final	archivo: e2e_staging_20260225.pdf
+2026-02-27 00:00:00	14:00	16:00	Retrospectiva de iteración y planificación de febrero-marzo	

@@ -1,0 +1,8 @@
+Fecha	Hora Inicio	Hora Final	Actividad	Evidencia
+2026-02-02 00:00:00	09:00	10:30	Seguimiento de acciones post-entrega y cierre de tareas	archivo: acta_cierre_20260202.pdf
+2026-02-03 00:00:00	10:00	12:00	Corrección de bugs en el módulo de notificaciones	commit: def456 (referencia interna)
+2026-02-04 00:00:00	14:00	16:00	Demostración del avance al equipo funcional y recolección de feedback	enlace: https://example.com/demo-feb
+2026-02-05 00:00:00	09:30	11:00	Pruebas de usabilidad con usuarios clave	archivo: usabilidad_20260205.pdf
+2026-02-06 00:00:00	11:00	13:00	Documentación de APIs y ejemplos de uso	archivo: api_docs_20260206.pdf
+2026-02-09 00:00:00	09:00	11:30	Implementación de despliegue continuo (CI) para pruebas automáticas	archivo: ci_pipeline_20260209.yml
+2026-02-12 00:00:00	15:00	17:00	Optimización de rendimiento en endpoints críticos	archivo: perf_report_20260212.pdf

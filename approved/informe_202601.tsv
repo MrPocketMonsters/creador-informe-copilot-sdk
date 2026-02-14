@@ -1,0 +1,24 @@
+Actividad_Especifica	Fecha	Descripcion	Producto_Entregable	Evidencia
+1	2026-01-06	Diseño de prototipo de interfaz para módulo de gestión	Documento PDF con mockups y guía de interacción	archivo: prototipo_interfaz_20260106.pdf
+2	2026-01-07	Desarrollo de componente de exportación a CSV	Archivo de ejemplo CSV y nota técnica	commit: abc123
+3	2026-01-08	Revisión de pruebas unitarias y ajustes menores	Informe PDF con casos de prueba y resultados	archivo: pruebas_unitarias_20260108.pdf
+4	2026-01-05	Análisis de requerimientos y definición de historias de usuario	Documento técnico con diseño de modelo de datos	
+4	2026-01-16	Desarrollo de plantilla para modelo de datos	Documento técnico con diagramas de ejemplo	archivo: diseño_modelo_20260116.pdf
+5	2026-01-20	Ajustes de diseño UI por resultados de pruebas de usabilidad	Demo HTML y archivo CSV de muestra	
+6	2026-01-03	Preparación del entorno de desarrollo y revisión de repositorios	Guía en Markdown y versión de ejemplo	https://example.com/repo-ejemplo
+6	2026-01-29	Revisión final y despliegue en entorno de pruebas	Guía en Markdown y versión de ejemplo	
+7	2026-01-04	Capacitación interna: buenas prácticas de código	Manual de usuario en PDF	
+8	2026-01-22	Revisión de accesibilidad y correcciones sugeridas	Checklist y reporte con recomendaciones	
+9	2026-01-02	Reunión de inicio de proyecto y alineación de objetivos	Paquete ZIP con entregables de muestra y resumen	
+9	2026-01-09	Planning del sprint y asignación de tareas	Paquete ZIP con entregables de muestra y resumen	
+9	2026-01-15	Daily meeting — seguimiento de avances	Paquete ZIP con entregables de muestra y resumen	
+9	2026-01-21	Preparación de entrega parcial y empaquetado de evidencias	Paquete ZIP con entregables de muestra y resumen	archivo: entrega_parcial_20260121.zip
+9	2026-01-23	Creación de Pull Request para avance de notificaciones	Paquete ZIP con entregables de muestra y resumen	https://example.com/pr/45
+9	2026-01-30	Retrospectiva del sprint y planificación siguiente iteración	Paquete ZIP con entregables de muestra y resumen	
+10	2026-01-12	Implementación de endpoints para API interna	Registro de resultados y plan de mitigación	https://example.com/api-docs
+10	2026-01-13	Integración con servicio de notificaciones (entorno de pruebas)	Registro de resultados y plan de mitigación	
+10	2026-01-19	Pruebas de integración entre módulos y documentación de resultados	Registro de resultados y plan de mitigación	archivo: integracion_resultados_20260119.pdf
+10	2026-01-26	Pruebas end-to-end en entorno local	Registro de resultados y plan de mitigación	archivo: e2e_results_20260126.pdf
+10	2026-01-27	Revisión de feedback y corrección de bugs críticos	Registro de resultados y plan de mitigación	
+11	2026-01-14	Sesión de validación de entregables con el equipo funcional	Acta de aceptación en PDF	archivo: acta_validacion_20260114.pdf
+12	2026-01-28	Actualización del CHANGELOG y preparación de la versión de prueba	CHANGELOG.md	archivo: CHANGELOG.md
