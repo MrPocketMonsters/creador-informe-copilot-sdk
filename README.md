@@ -99,7 +99,7 @@ El punto de entrada principal. Su función es:
 
 Script auxiliar de preprocesamiento de datos.
 
-- **Entrada**: Busca un archivo Excel en `data/actividades.xlsx`.
+- **Entrada**: Busca un archivo Excel en `data/actividades_realizadas.xlsx`.
 - **Proceso**: Convierte el libro de Excel a formato TSV (Tab-Separated Values). Limpia los saltos de línea dentro de las celdas para evitar romper el formato del archivo de texto.
 - **Salida**: Genera `data/actividades_realizadas.tsv`, que es el archivo que el agente leerá.
 
@@ -123,9 +123,9 @@ El funcionamiento del agente depende de varios archivos de contexto ubicados pri
 
 - **`actividades_especificas.tsv`**: Catálogo maestro. Relaciona los IDs de actividades contractuales con sus descripciones y los entregables esperados.
 - **`actividades_realizadas.tsv`**: (Generado) Log crudo de actividades diarias en formato TSV, listo para ser procesado por el agente.
-- **`actividades.xlsx`**: (Entrada Manual) El archivo Excel original donde registras tus actividades. **Debe estar en `data/`**.
+- **`actividades_realizadas.xlsx`**: (Entrada Manual) El archivo Excel original donde registras tus actividades. **Debe estar en `data/`**.
 
-**Formato Requerido para `actividades.xlsx`**:
+**Formato Requerido para `actividades_realizadas.xlsx`**:
 
 Esta es la fuente de verdad. Para que el sistema funcione correctamente, la hoja activa o primera hoja del libro debe cumplir lo siguiente:
 
